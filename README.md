@@ -80,3 +80,4 @@ This will run the automated build process, start up a webserver, and open the ap
 |webpack-hot-middleware| Adds hot reloading to webpack |
 "# react-redux" 
 "# react-redux" 
+"# react-redux" 
